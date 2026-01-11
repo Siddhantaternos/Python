@@ -1,184 +1,129 @@
-Python Mastery Roadmap
-=====================
+## 🐍 Python Learning Roadmap (Basics → Professional)
 
-1. Python Basics
-   1.1 Introduction to Python
-       - What Python is
-       - How Python executes code
-       - Installing Python & running scripts
+### 1. Python Basics
+1.1 Variables and Data Types  
+1.2 Type Casting  
+1.3 Operators (Arithmetic, Logical, Comparison)  
+1.4 Input and Output  
+1.5 Conditional Statements (`if`, `elif`, `else`)  
+1.6 Loops (`for`, `while`)  
+1.7 Loop Control (`break`, `continue`, `pass`)  
 
-   1.2 Variables & Data Types
-       - Variables and naming rules
-       - int, float, bool, str
-       - Type casting
-       - type() function
+---
 
-   1.3 Operators
-       - Arithmetic operators
-       - Comparison operators
-       - Logical operators
-       - Assignment operators
+### 2. Data Structures
+2.1 Lists  
+2.2 Tuples  
+2.3 Sets  
+2.4 Dictionaries  
+2.5 Nested Data Structures  
+2.6 Common Built-in Functions  
 
-   1.4 Input & Output
-       - input()
-       - print()
-       - Formatted output (f-strings)
+---
 
-2. Control Flow
-   2.1 Conditional Statements
-       - if
-       - if-else
-       - elif
-       - Nested conditions
+### 3. Functions
+3.1 Defining Functions  
+3.2 Function Arguments  
+- Positional Arguments  
+- Keyword Arguments  
+- Default Arguments  
+- Arbitrary Arguments  
+3.3 Return Statements  
+3.4 Scope (Local vs Global)  
+3.5 Lambda Functions  
 
-   2.2 Loops
-       - for loop
-       - while loop
-       - break, continue, pass
-       - Nested loops
+---
 
-3. Data Structures
-   3.1 Lists
-       - Creating lists
-       - Indexing & slicing
-       - List methods
-       - List comprehension
+### 4. Strings
+4.1 String Creation and Indexing  
+4.2 String Slicing  
+4.3 String Methods  
+4.4 String Formatting (`f-strings`)  
 
-   3.2 Tuples
-       - Tuple creation
-       - Immutability
-       - Packing & unpacking
+---
 
-   3.3 Sets
-       - Set properties
-       - Set operations
-       - Use cases
+### 5. File Handling
+5.1 Reading Files  
+5.2 Writing Files  
+5.3 Working with CSV and Text Files  
+5.4 File Paths and Directories  
 
-   3.4 Dictionaries
-       - Key-value pairs
-       - Dictionary methods
-       - Iterating dictionaries
+---
 
-4. Functions
-   4.1 Function Basics
-       - Defining functions
-       - Parameters & arguments
-       - return statement
+### 6. Error and Exception Handling
+6.1 Syntax Errors vs Runtime Errors  
+6.2 `try`, `except`, `else`, `finally`  
+6.3 Custom Exceptions  
 
-   4.2 Advanced Function Concepts
-       - Default arguments
-       - Keyword arguments
-       - *args and **kwargs
-       - Lambda functions
+---
 
-   4.3 Scope
-       - Local vs global variables
-       - global keyword
+### 7. Modules and Packages
+7.1 Importing Modules  
+7.2 Creating Custom Modules  
+7.3 Python Packages  
+7.4 Virtual Environments  
+7.5 Dependency Management  
 
-5. Modules & Packages
-   5.1 Modules
-       - Importing modules
-       - Built-in modules
-       - Creating custom modules
+---
 
-   5.2 Packages
-       - Package structure
-       - __init__.py
-       - Virtual environments
+### 8. Object-Oriented Programming (OOP)
+8.1 Classes and Objects  
+8.2 Constructors (`__init__`)  
+8.3 Instance vs Class Variables  
+8.4 Methods  
+8.5 Inheritance  
+8.6 Polymorphism  
+8.7 Encapsulation  
+8.8 Composition  
 
-6. File Handling
-   6.1 Working with Files
-       - Reading files
-       - Writing files
-       - Appending files
+---
 
-   6.2 File Modes & Context Managers
-       - File modes
-       - with statement
+### 9. Advanced Python Concepts
+9.1 Iterators and Generators  
+9.2 Decorators  
+9.3 Context Managers (`with` statement)  
+9.4 Dunder (Magic) Methods  
+9.5 Memory Management and Mutability  
 
-7. Exception Handling
-   7.1 Errors & Exceptions
-       - Types of errors
-       - try-except blocks
-       - else and finally
+---
 
-   7.2 Custom Exceptions
-       - Raising exceptions
-       - Creating custom exception classes
+### 10. Python Standard Library
+10.1 `os` and `sys`  
+10.2 `pathlib`  
+10.3 `datetime`  
+10.4 `collections`  
+10.5 `itertools`  
+10.6 `math` and `random`  
+10.7 `json` and `csv`  
 
-8. Object-Oriented Programming (OOP)
-   8.1 OOP Fundamentals
-       - Classes & objects
-       - __init__ method
-       - Instance variables
+---
 
-   8.2 OOP Concepts
-       - Encapsulation
-       - Inheritance
-       - Polymorphism
-       - Abstraction
+### 11. Testing and Debugging
+11.1 Debugging Techniques  
+11.2 Logging  
+11.3 Unit Testing (`unittest`)  
+11.4 Testing with `pytest`  
 
-   8.3 Special (Dunder) Methods
-       - __str__
-       - __repr__
-       - __len__
-       - __eq__
+---
 
-9. Advanced Python
-   9.1 Iterators & Generators
-       - iter() and next()
-       - Generator functions
-       - yield keyword
+### 12. Code Quality and Best Practices
+12.1 Writing Clean and Readable Code  
+12.2 PEP 8 Guidelines  
+12.3 Refactoring Code  
+12.4 Documentation and Comments  
 
-   9.2 Decorators
-       - Function decorators
-       - Practical use cases
+---
 
-   9.3 Context Managers
-       - Creating context managers
-       - Using contextlib
+### 13. Applied Python
+13.1 Mini Projects  
+13.2 Real-World Use Cases  
+13.3 Performance Considerations  
+13.4 Reading and Understanding Existing Code  
 
-   9.4 Memory & Performance
-       - Mutability vs immutability
-       - Shallow vs deep copy
-       - Garbage collection (basics)
+---
 
-10. Standard Library Mastery
-    10.1 os & sys
-    10.2 pathlib
-    10.3 datetime
-    10.4 collections
-    10.5 itertools
-    10.6 math & random
-    10.7 json & csv
-
-11. Testing & Debugging
-    11.1 Debugging Techniques
-         - Reading tracebacks
-         - Using pdb
-
-    11.2 Testing
-         - unittest basics
-         - pytest basics
-         - Writing test cases
-
-12. Professional Python Practices
-    12.1 Code Quality
-         - PEP 8
-         - Readable naming
-         - Refactoring
-
-    12.2 Project Structure
-         - Folder organization
-         - requirements.txt
-         - README writing
-
-    12.3 Version Control
-         - Git basics
-         - Meaningful commits
-
-13. Applied Python
-    13.1 Mini Projects
-    13.2 Refactoring Old Code
-    13.3 Reading & Understanding Others’ Code
-    13.4 Knowing Python’s Limits
+### 14. Mastery Phase
+14.1 Advanced Problem Solving  
+14.2 Design Thinking with Python  
+14.3 When and When Not to Use Python  
+14.4 Continuous Improvement and Learning
