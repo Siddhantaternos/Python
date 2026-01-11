@@ -1,4 +1,4 @@
-Python Notes & Practice Repository
+🐍 Python Notes & Practice Repository
 
 This repository contains structured notes, code examples, and practical implementations covering Python fundamentals to advanced concepts. It serves as a central workspace for writing, testing, and refining Python code while building a strong conceptual and practical foundation.
 
