@@ -17,7 +17,7 @@ This repo serves as a growing knowledge base covering:
 - Incremental progression from basics to advanced topics
 
 ## 🧠 Philosophy
-Learning Python by **building, breaking, and rebuilding**.
+Learning Python by **building, breaking, and rebuilding**.  
 Every file exists for understanding, not decoration.
 
 ## 🛠️ Usage
