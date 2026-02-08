@@ -6,7 +6,7 @@ This repo serves as a growing knowledge base covering:
 - Core Python fundamentals
 - Syntax explanations with practical examples
 - Problem-solving patterns
-- Small scripts and experiments
+- Small scripts and experiments  
 - Concepts reinforced through code, not theory alone  
 
 ## 📌 What to Expect
