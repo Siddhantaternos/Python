@@ -7,7 +7,7 @@ This repo serves as a growing knowledge base covering:
 - Syntax explanations with practical examples
 - Problem-solving patterns
 - Small scripts and experiments
-- Concepts reinforced through code, not theory alone
+- Concepts reinforced through code, not theory alone  
 
 ## 📌 What to Expect
 - Clean and readable Python code
